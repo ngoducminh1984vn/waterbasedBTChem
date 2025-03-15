@@ -1,2 +1,1 @@
-# waterbasedBTChem
- Sơn hệ nước của BTCHEMICAL
+Chào các bạn Kĩ thuật viên
